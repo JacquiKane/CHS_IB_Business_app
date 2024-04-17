@@ -1,0 +1,11 @@
+/** @format */
+
+.pageHeader {
+  width: 99vw;
+  border: 5px solid #17276c;
+  background-color: #f3d168;
+  height: 50px;
+  font-size: 200%;
+  text-align: center;
+  padding-top: 10px;
+}
